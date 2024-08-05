@@ -14,9 +14,6 @@
 ## :wrench: Setup and Usage
 
 1. Navigate to the project directory:
-   ```sh
-   cd resume-analyzer
-   ```
 
 2. Install dependencies (Install the latest libraries instead of the specific ones mentioned in the txt file):
    ```sh
